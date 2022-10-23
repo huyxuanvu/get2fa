@@ -1,0 +1,13 @@
+D:\File C#\2fa\2fa\bin\Debug\2fa.exe.config
+D:\File C#\2fa\2fa\bin\Debug\2fa.exe
+D:\File C#\2fa\2fa\bin\Debug\2fa.pdb
+D:\File C#\2fa\2fa\bin\Debug\Otp.NET.dll
+D:\File C#\2fa\2fa\obj\Debug\2fa.csproj.AssemblyReference.cache
+D:\File C#\2fa\2fa\obj\Debug\2fa.csproj.SuggestedBindingRedirects.cache
+D:\File C#\2fa\2fa\obj\Debug\_2fa.Form1.resources
+D:\File C#\2fa\2fa\obj\Debug\_2fa.Properties.Resources.resources
+D:\File C#\2fa\2fa\obj\Debug\2fa.csproj.GenerateResource.cache
+D:\File C#\2fa\2fa\obj\Debug\2fa.csproj.CoreCompileInputs.cache
+D:\File C#\2fa\2fa\obj\Debug\2fa.csproj.CopyComplete
+D:\File C#\2fa\2fa\obj\Debug\2fa.exe
+D:\File C#\2fa\2fa\obj\Debug\2fa.pdb
